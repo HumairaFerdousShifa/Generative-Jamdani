@@ -60,8 +60,8 @@ For example:
 
 | dataset | example |
 | --- | --- |
+| [Primary Version](https://drive.google.com/file/d/1JcY-IpFnS4HPB971URWm_S5IwvmSkPBK/view?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="256px"/> |
 | [Boundary Version](https://drive.google.com/file/d/1FXT7VDTgG_pOlCswMHM8iwkKHY1i09ZK/view?usp=sharing)  <br> 1116 images   | <img src="dataset-example/B.jpg" width="256px"/> |
-| [Enhanched Resolution Version](https://drive.google.com/file/d/1JcY-IpFnS4HPB971URWm_S5IwvmSkPBK/view?usp=sharing)  <br> 1983 images   | <img src="dataset-example/BRes.png" width="256px"/> |
 | [Skeleton Version](https://drive.google.com/file/d/14cx-mTHrZYv5W-hTEqNENRD-sibZIACL/view?usp=sharing)  <br> 7932 images   | <img src="dataset-example/Skel.png" width="256px"/> |
 | [Reduced Version](https://drive.google.com/file/d/1oGaw855PJ8bgsgeYHuRuILySCBrYHeHw/view?usp=sharing)  <br> 913 images   | <img src="dataset-example/RedB.png" width="256px"/> |
 | [Sketch Version](https://drive.google.com/file/d/1jqiTwuHEbA0-67ySXimeOt6tgQ-7ykNX/view?usp=sharing)  <br> 910 images   | <img src="dataset-example/Sketch.png" width="256px"/> |
